@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 __pycache__/
 =======
 dataset/mnist/*.npy
 distribution/
 backups/
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -108,4 +108,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
->>>>>>> 9f53a0954fdcd31c2e4cec36884ba9f3aae41f96
