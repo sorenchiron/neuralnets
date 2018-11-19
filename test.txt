@@ -1,0 +1,10 @@
+image index:.\dataset\test\0.png,predict:0 
+image index:.\dataset\test\1.png,predict:1 
+image index:.\dataset\test\2.png,predict:2 
+image index:.\dataset\test\3.png,predict:3 
+image index:.\dataset\test\4.png,predict:4 
+image index:.\dataset\test\5.png,predict:5 
+image index:.\dataset\test\6.png,predict:6 
+image index:.\dataset\test\7.png,predict:7 
+image index:.\dataset\test\8.png,predict:8 
+image index:.\dataset\test\9.png,predict:9 
